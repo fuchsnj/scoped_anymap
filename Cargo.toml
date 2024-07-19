@@ -1,0 +1,12 @@
+[package]
+name = "scoped_anymap"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nathan Fox <fuchsnj@gmail.com>"]
+license = "MIT/Apache-2.0"
+description = """
+An anymap that allows non-static values
+"""
+
+[dependencies]
+ahash = "0.8.11"
